@@ -1,0 +1,15 @@
+Jumping 跳躍力
+Endurance 肌耐力
+catch serve 接發能力
+catch strong attack 接強扣能力
+catch short trick 接小球能力
+underhand 低手
+overhand 高手
+boa ball 包球
+handle 處理球能力
+
+MB 攔中
+S 舉球
+OS 大砲
+O 舉對
+L 自由
